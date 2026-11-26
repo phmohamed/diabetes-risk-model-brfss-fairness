@@ -1,0 +1,7 @@
+model,test_auc
+"Logistic, all 21 features",0.8218
+"GBM, all 21 features",0.8308
+"Logistic, no self-rated health",0.8075
+"GBM, no self-rated health",0.8163
+"Logistic, 8 features",0.8155
+"GBM, 8 features",0.8234

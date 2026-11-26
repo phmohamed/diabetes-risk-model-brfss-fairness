@@ -1,0 +1,13 @@
+attribute,group,threshold,flagged,false_pos_rate
+Sex,Female,0.251,0.185,0.127
+Sex,Male,0.254,0.22,0.157
+Age,18-39,0.069,0.108,0.094
+Age,40-59,0.211,0.171,0.121
+Age,60-69,0.293,0.241,0.164
+Age,70+,0.261,0.307,0.238
+Income,<$20k,0.34,0.282,0.191
+Income,$20-50k,0.274,0.23,0.161
+Income,>$50k,0.188,0.167,0.125
+Education,High school or less,0.291,0.254,0.179
+Education,Some college,0.254,0.211,0.147
+Education,College grad,0.203,0.161,0.117
